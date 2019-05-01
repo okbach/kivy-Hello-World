@@ -18,3 +18,5 @@ if __name__ == '__main__':
 مثل اسم الكلاس الرئيسي
 2) main.kv :
 و هو الملف الخاص بلغة الكيفي kivy lang 
+
+![screenshot](https://github.com/Dev-loper0/kivy-Hello-World/blob/master/unnamed.png)
