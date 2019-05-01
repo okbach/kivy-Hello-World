@@ -15,7 +15,7 @@ class mainApp(App):
  class mainApp(App):
       def build(self):
  ```
- و اخيرا نقوم بارجاع الكائن الذي سيظهر في التطبيف :
+ و اخيرا نقوم بارجاع الكائن الذي سيظهر في التطبيق :
  ```python
      def build(self):
          return Label(text='Hello World ')
